@@ -1,2 +1,2 @@
 # perplexityai
-A python perplexity.ai quickstart
+ - A python perplexity.ai quickstart
